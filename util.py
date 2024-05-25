@@ -1,7 +1,7 @@
 import pickle
 import json
 import numpy as np
-from sklearn.linear_model import base
+from sklearn.linear_model import _base
 
 __locations = None
 __data_columns = None
